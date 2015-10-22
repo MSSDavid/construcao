@@ -30,12 +30,5 @@ public class razaoTest {
         Assert.assertEquals(6, Somas.naturais(3));
         Assert.assertEquals(15, Somas.naturais(5));
         Assert.assertEquals(500500, Somas.naturais(1000));        
-    }
-    
-    
-            
-            
-    
-    
-    
+    }   
 }
